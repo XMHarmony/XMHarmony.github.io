@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xmharmony.top/2021/03/08/cisco-packet-tracker-7-3-0-an-zhuang-jiao-cheng/</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xmharmony.top/2021/03/08/hello-world/</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xmharmony.top/404/index.html</loc>
     
     <lastmod>2021-03-02</lastmod>
@@ -43,22 +57,29 @@
     
   </url>
   
-  <url>
-    <loc>https://xmharmony.top/2021/03/01/hello-world/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://xmharmony.top/</loc>
-    <lastmod>2021-03-05</lastmod>
+    <lastmod>2021-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://xmharmony.top/tags/Cisco/</loc>
+    <lastmod>2021-03-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://xmharmony.top/categories/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2021-03-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
